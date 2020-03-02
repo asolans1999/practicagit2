@@ -14,5 +14,6 @@ public class main {
         System.out.println("PRIMERA SUBIDA");
         System.out.println("SUBIDA A LA RAMA DEVELOP");
         System.out.println("ACTUALIZAR RAMA DEVELOP CASO 1");
+                System.out.println("COMMIT DE MARC");
     }
 }
