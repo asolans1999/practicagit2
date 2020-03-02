@@ -37,7 +37,7 @@ Ahora aplicaremos el push para subirlo a master
 
 ## CASO 2
 
-En este caso un colaborador ha hecho cambio en el mismo sitio que yo lo he hecho, tenemos que resolver conflictos antes de poder subirlo, tenemos que descargarnos la que hay subida y nos permitirá hacer las resoluciones del conflicto una vez resuelto, nos dará 3 opciones: Coger nuestra version, coger la versión del otro o con una herramienta externa poder solucionarlo manualmente
+En este caso un colaborador ha hecho cambio en el mismo sitio que yo lo he hecho, tenemos que resolver conflictos antes de poder subirlo, tenemos que descargarnos la que hay subida y nos permitirá hacer las resoluciones del conflicto para resolverlo nos dará 3 opciones: Coger nuestra version, coger la versión del otro o con una herramienta externa poder solucionarlo manualmente
 
 <img src="FOTOS2/11.png">
 
