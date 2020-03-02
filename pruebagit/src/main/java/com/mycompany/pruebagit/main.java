@@ -14,6 +14,10 @@ public class main {
         System.out.println("PRIMERA SUBIDA");
         System.out.println("SUBIDA A LA RAMA DEVELOP");
         System.out.println("ACTUALIZAR RAMA DEVELOP CASO 1");
+<<<<<<< HEAD
         System.out.println("SOY ARNAU");
+=======
+                System.out.println("COMMIT DE MARC");
+>>>>>>> a30fdf358165420ff440113662173125d5fb39c9
     }
 }
